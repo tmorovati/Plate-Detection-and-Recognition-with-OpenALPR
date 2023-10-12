@@ -5,8 +5,10 @@
 
 ## Description
 
-This project focuses on place detection and recognition using the OpenALPR (Automatic License Plate Recognition) repository. By leveraging OpenALPR's capabilities, we have developed a system for recognizing and categorizing locations within your university's parking areas. The system utilizes license plate recognition technology to identify and classify parking spots, contributing to efficient management and navigation.
+This project focuses on place detection and recognition using the OpenALPR (Automatic License Plate Recognition) repository. By leveraging OpenALPR's capabilities on Persian Numbers, we have developed a system for recognizing and categorizing locations within your university's parking areas. The system utilizes license plate recognition technology to identify and classify parking spots, contributing to efficient management and navigation.
 
+**Warning: Dataset belongs to Persian Numbers
+**
 ## Features
 
 - Automatic license plate recognition using OpenALPR.
